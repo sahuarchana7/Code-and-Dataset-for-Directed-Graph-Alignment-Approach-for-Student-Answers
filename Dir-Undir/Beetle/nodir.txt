@@ -1,0 +1,133 @@
+VOLTAGE_DIFF_DISCUSS_2_Q.2t  There is a gap between the bulb terminal and the battery terminal.
+VOLTAGE_DIFF_DISCUSS_2_Q.18t  The terminals are connected to different terminals of the battery.
+VOLTAGE_DIFF_DISCUSS_2_Q.21t  There is a difference in electrical states.
+HYBRID_BURNED_OUT_WHY_Q3.11t  There is a gap in the path of the bulb terminal.
+VOLTAGE_DIFF_DISCUSS_1_Q.24t  That the bulb terminal and battery terminal are on the same side of a disconnected circuit.
+VOLTAGE_DIFF_DISCUSS_1_Q.28t  That there is no difference in electrical states of the two terminals.
+VOLTAGE_DIFF_DISCUSS_1_Q.36t  That the bulb is not connected to both sides of the battery.
+BURNED_BULB_LOCATE_EXPLAIN_Q.51t  If there is a voltage reading of non-zero it means that there is a change in the electrical states in the terminals.
+CONDITIONS_FOR_BULB_TO_LIGHT.86t  A closed path between battery and light bulb, with the positive going to the positive output from the battery to the positive side of the bulb, and the negative output from the battery to the negative side of the bulb .
+VOLTAGE_AND_GAP_DISCUSS_Q.39t  There is a difference in electrical states.
+VOLTAGE_DIFF_DISCUSS_2_Q.30t  There is no gap between the bulb terminal and the battery terminal.
+VOLTAGE_DIFF_DISCUSS_2_Q.35t  There is no gap between the positive battery terminal and the bulb terminal.
+VOLTAGE_DIFF_DISCUSS_2_Q.38t  A terminal is connected to the same states.
+VOLTAGE_DIFF_DISCUSS_2_Q.39t  There is a difference in electrical states.
+VOLTAGE_DIFF_DISCUSS_1_Q.90t  That the bulb terminal is only connected to one of the battery terminals.
+VOLTAGE_DIFF_DISCUSS_1_Q.92t  There is a gap between the bulb terminal and the battery terminal.
+VOLTAGE_DIFF_DISCUSS_1_Q.96t  That there is a gap.
+BURNED_BULB_LOCATE_EXPLAIN_Q.99t  There is a gap between the positive battery terminal and the bulb terminal.
+CONDITIONS_FOR_BULB_TO_LIGHT.100t  Battery is in a holder.
+CONDITIONS_FOR_BULB_TO_LIGHT.107t  Battery terminals match the bulb terminals.
+VOLTAGE_AND_GAP_DISCUSS_Q.70t  The bulb terminal is connected to a positive or negative battery terminal .
+DAMAGED_BULB_EXPLAIN_2_Q.3a  There is a gap in the circuit.
+HYBRID_BURNED_OUT_WHY_Q3.1a  If a damaged bulb is in the same closed path with the battery.
+HYBRID_BURNED_OUT_WHY_Q3.2a  If a damaged bulb and another bulb are on the same path.
+VOLTAGE_DIFF_DISCUSS_1_Q.3a  There is no difference between the electrical states and also that there is a gap in the circuit.
+VOLTAGE_DIFF_DISCUSS_1_Q.5a  There is a short circuit between the connection of the bulb terminal and a battery terminal.
+VOLTAGE_DIFF_DISCUSS_1_Q.9a  The two terminals are in the same electrical state.
+BURNED_BULB_LOCATE_EXPLAIN_Q.3a  There is a difference in the electrical state at the location of the gap in the circuit.
+SHORT_CIRCUIT_X_Q.2a  There is no charge.
+SHORT_CIRCUIT_X_Q.4a  That there is a short circuit.
+SHORT_CIRCUIT_X_Q.5a  There is a damaged battery.
+CONDITIONS_FOR_BULB_TO_LIGHT.2a  A light bulb must be connected to the battery.
+CONDITIONS_FOR_BULB_TO_LIGHT.4a  The positive and negative charges of the battery must connect to the bulb.
+CONDITIONS_FOR_BULB_TO_LIGHT.5a  There has to be a closed circuit.
+CONDITIONS_FOR_BULB_TO_LIGHT.6a  There has to be a closed circuit.
+CONDITIONS_FOR_BULB_TO_LIGHT.7a  The battery and the light bulb must be in a closed path.
+CONDITIONS_FOR_BULB_TO_LIGHT.8a  There should be a closed path between the battery and the bulb.
+CONDITIONS_FOR_BULB_TO_LIGHT.9a  One contact is connected to the positive and the other attached to the negative, in a closed pathway.
+VOLTAGE_AND_GAP_DISCUSS_Q.3a  There is a gap.
+SWITCH_TABLE_EXPLAIN_Q3.2a  When there is a closed path.
+SWITCH_TABLE_EXPLAIN_Q3.7a  When the switch is in the same path as the bulb.
+SWITCH_TABLE_EXPLAIN_Q3.9a  When a switch is on the same path as the battery and the bulb.
+PARALLEL_SWITCH_EXPLAIN_Q3.3a  Whether there is a closed path with a battery.
+VOLTAGE_DIFF_DISCUSS_1_Q.13a  There is no voltage between the two terminals.
+VOLTAGE_DIFF_DISCUSS_1_Q.14a  The bulb terminal and the battery terminal are in different states.
+VOLTAGE_DIFF_DISCUSS_1_Q.16a  The bulb terminal is connected to the negative voltage terminal.
+VOLTAGE_DIFF_DISCUSS_1_Q.18a  There is a damaged bulb.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.5q  Voltage reading between two terminals is the difference in voltage between the positive and negative terminals.
+VOLTAGE_DEFINE_Q.57t  Voltage is the difference in size between two terminals.
+VOLTAGE_DEFINE_Q.68t  Voltage is the measure of electricity.
+VOLTAGE_DEFINE_Q.73t  Voltage is the difference in electrical states between two terminals.
+VOLTAGE_DEFINE_Q.78t  Voltage is a property of batteries. Voltage is the difference between electrical currents in two terminals.
+VOLTAGE_DEFINE_Q.80t  Voltage is the difference in charge between the two terminals.
+VOLTAGE_DEFINE_Q.102t  Voltage is distance between terminals.
+VOLTAGE_DEFINE_Q.1a  Voltage is electricity.
+VOLTAGE_DEFINE_Q.2a  Voltage is a measurement of electricity between a positive and negative terminal.
+VOLTAGE_DEFINE_Q.3a  Voltage is the difference in electrical state between terminals.
+VOLTAGE_DEFINE_Q.4a  Voltage is the measurement of electricity.
+VOLTAGE_DEFINE_Q.7a  Voltage is the difference in the terminals of a battery.
+VOLTAGE_DEFINE_Q.9a  Voltage is the difference between the electrical states between two terminals.
+VOLTAGE_DEFINE_Q.10a  Voltage is the difference between the electrical states of two terminals.
+VOLTAGE_DEFINE_Q.11a  Voltage is the measurement of power.
+VOLTAGE_DEFINE_Q.1t  Voltage is the difference between two terminals.
+VOLTAGE_DEFINE_Q.4t  Voltage is the difference in electrical state between terminals.
+VOLTAGE_DEFINE_Q.5t  Voltage is the difference in electrical states between two terminals.
+VOLTAGE_DEFINE_Q.6t  Voltage is the difference in the electrical states of the positive and negative terminals of a battery.
+VOLTAGE_DEFINE_Q.7t  Voltage is the measurement between the electrical states of the positive and negative terminals of a battery.
+VOLTAGE_DEFINE_Q.9t  Voltage is a difference between the electrical states.
+VOLTAGE_DEFINE_Q.10t  Voltage is the difference between the positive and negative terminals of a battery.
+VOLTAGE_DEFINE_Q.11t  Voltage is the difference of electrical states in a battery.
+VOLTAGE_DEFINE_Q.12t  Voltage is the difference in electricity between terminals.
+VOLTAGE_DEFINE_Q.13t  Voltage is the difference of electrical states between two terminals.
+VOLTAGE_DEFINE_Q.14t  Voltage is the difference between two terminals.
+VOLTAGE_DEFINE_Q.16t  Voltage is a measurement of electricity.
+VOLTAGE_DEFINE_Q.17t  Voltage is the different in the positive terminal and negative terminal.
+VOLTAGE_DEFINE_Q.18t  Voltage is the difference between the electrical state of the positive terminal and the negative terminal .
+VOLTAGE_DEFINE_Q.19t  Voltage is the difference between two terminals.
+VOLTAGE_DEFINE_Q.20t  Voltage is the difference in connections between terminals.
+VOLTAGE_DEFINE_Q.21t  Voltage is the difference in electrical state between two terminals.
+VOLTAGE_DEFINE_Q.22t  Voltage is the difference in electrical states between two terminals.
+VOLTAGE_DEFINE_Q.23t  Voltage is the difference in batteries.
+VOLTAGE_DEFINE_Q.24t  Voltage is the difference between the battery and terminal.
+VOLTAGE_DEFINE_Q.25t  Voltage is the difference in the electrical state between the battery and terminal.
+VOLTAGE_DEFINE_Q.26t  Voltage is the difference between states.
+VOLTAGE_DEFINE_Q.27t  Voltage is the difference between the electrical states.
+VOLTAGE_DEFINE_Q.28t  Voltage is the difference in the electrical states between the terminals.
+VOLTAGE_DEFINE_Q.29t  Voltage is the difference in electrical states.
+VOLTAGE_DEFINE_Q.30t  Voltage is the measurement in difference of the electrical states.
+VOLTAGE_DEFINE_Q.31t  Voltage is measurement of the difference in electrical states between two terminals.
+VOLTAGE_DEFINE_Q.32t  Voltage is the measurement of power to a source of energy.
+VOLTAGE_DEFINE_Q.33t  Voltage is the difference between electrical charges of battery terminals.
+VOLTAGE_DEFINE_Q.34t  Voltage is the difference between electrical charges in a battery.
+VOLTAGE_DEFINE_Q.35t  Voltage is terminals.
+VOLTAGE_DEFINE_Q.37t  Voltage is the difference between the two ends of the battery.
+VOLTAGE_DEFINE_Q.38t  Voltage is difference between the electrical state of the two ends of the battery.
+VOLTAGE_DEFINE_Q.39t  Voltage is potential difference.
+VOLTAGE_DEFINE_Q.40t  Voltage is difference in electricity.
+VOLTAGE_DEFINE_Q.41t  Voltage is potential difference between 2 terminal.
+VOLTAGE_DEFINE_Q.42t  Voltage is difference in electrical state between two terminals.
+VOLTAGE_DEFINE_Q.43t  Voltage is the difference between the positive and negative measurements of power.
+VOLTAGE_DEFINE_Q.5a  Voltage is the difference in electrical state.
+VOLTAGE_DEFINE_Q.6a  Voltage is the difference is electrical states.
+VOLTAGE_DEFINE_Q.8a  Voltage is the difference between the positive and negative side.
+VOLTAGE_DEFINE_Q.12a  Voltage is god.
+VOLTAGE_AND_GAP_DISCUSS_Q.6a  That the terminals are connected to a battery.
+VOLTAGE_AND_GAP_DISCUSS_Q.7a  The bulb terminal is connected to a different terminal.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.9q  The difference of the electrical states of the terminals is the voltage.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.13q  There is a difference between the positive terminal and negative terminal.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.18q  Voltage reading between two terminals is the difference in the positive and negative states.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.46q  The voltage reading is the difference between two terminals.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.50q  The voltage reading is the difference between the two terminals
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.51q  The only difference is when there is a gap between the terminals.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.52q  Voltage is the difference in the electrical states between the two terminals.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.58q  The difference in power between the two terminals.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.60q  The voltage reading is the difference between the two terminals.
+DESCRIBE_GAP_LOCATE_PROCEDURE_Q.5q  There will be a electrical state change between two terminals.
+DESCRIBE_GAP_LOCATE_PROCEDURE_Q.6q  There will be a change in voltage between two terminals.
+DESCRIBE_GAP_LOCATE_PROCEDURE_Q.9q  There is a change in the voltage.
+DESCRIBE_GAP_LOCATE_PROCEDURE_Q.18q  There would be a measurement of voltage.
+DESCRIBE_GAP_LOCATE_PROCEDURE_Q.20q  There is a change in electrical states.
+DESCRIBE_GAP_LOCATE_PROCEDURE_Q.21q  There is a change in voltage on the meter from the terminals.
+DAMAGED_BULB_SWITCH_Q.38q  A damaged bulb and an open switch both can be gaps in a circuit.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.82q  There is a difference in electrical current at each terminal.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.91q  The relationship between the voltage reading between two terminals and their electrical states is yea ?
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.94q  The relationship between the voltage reading between two terminals and their electrical states is the power of god.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.100q  The relationship between the voltage reading between two terminals and their electrical states is tell me the answer.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.107q  The relationship between the voltage reading between two terminals and their electrical states is there.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.113q  The relationship between the voltage reading between two terminals and their electrical states is i still do not know.
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q.134q  The voltage reading between two terminals is 1.5 volts.
+DESCRIBE_GAP_LOCATE_PROCEDURE_Q.91q  The voltage will be 0.
+DESCRIBE_GAP_LOCATE_PROCEDURE_Q.96q  Voltage would be 1.5
+DESCRIBE_GAP_LOCATE_PROCEDURE_Q.98q  The voltage reading between two terminals is if the voltage is 0.00 V.
+DESCRIBE_GAP_LOCATE_PROCEDURE_Q.99q  The voltage reading will be 0.
