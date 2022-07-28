@@ -1,0 +1,142 @@
+1.1  What is the role of a prototype program in problem solving? 
+1.2  What stages in the software life cycle are influenced by the testing stage? 
+1.3  What are the main advantages associated with object-oriented programming? 
+1.4  Where do C plus plus programs begin to execute? 
+1.5  What is a variable? 
+1.6  Where are variables declared in a C plus plus program? 
+1.7  What is the main difference between a while and a do ... while statement? 
+2.1  What is typically included in a class definition? 
+2.2  What is the difference between a data member and a local variable inside a member function? 
+2.3  What is the difference between a constructor and a function? 
+2.4  When does C plus plus create a default constructor? 
+2.5  How many constructors can be created for a class? 
+2.6  What is the difference between a function prototype and a function definition? 
+2.7  What is the role of a header-file? 
+3.1  What does a function signature include? 
+3.2  What is the scope of global variables? 
+3.3  How does the compiler handle inline functions? 
+3.4  What is the main advantage associated with function arguments that are passed by reference? 
+3.5  How are overloaded functions differentiated by the compiler? 
+3.6  When defining a recursive function, what are possible causes for infinite recursion? 
+3.7  What are the similarities between iteration and recursion? 
+4.1  What are the two different ways of specifying the length of an array? 
+4.2  What is the main difference between strings declared using the type string versus strings declared using an array of characters? 
+4.3  How are arrays passed to functions? 
+4.4  What is the difference between an array declared as static, and one that is not? 
+4.5  How many dimensions need to be specified when passing a multi-dimensional array as an argument to a function? 
+4.6  Using an index outside the bounds of the array generates an error.  Is this a compilation error or a run-time error? 
+4.7  How are bi-dimensional arrays stored in memory, by rows or by columns? 
+5.1  In one sentence, what is the main idea implemented by insertion sort? 
+5.2  In one sentence, what is the main idea implemented by selection sort? 
+5.3  What is the number of operations for insertion sort under a best-case scenario, and what is the best-case scenario? 
+5.4  What is the base case for a recursive implementation of merge sort? 
+6.1  What is a pointer? 
+6.2  What does the address ( ADDRESS ) operator return? 
+6.3  What does the star ( STAR ) operator return? 
+6.4  How can an array be addressed in pointer or offset notation? 
+6.5  What does the sizeof operator return? 
+6.6  What are the different ways to pass a pointer to a function? 
+6.7  What is a function pointer? 
+7.1  What is a linked list? 
+7.2  What is the main advantage of linked lists over arrays? 
+7.3  What is the main advantage of arrays over linked lists? 
+7.4  How are linked lists passed as arguments to a function? 
+7.5  What is the difference between a circular linked list and a basic linked list? 
+7.6  What is the main advantage of a doubly-linked list over a basic linked list? 
+7.7  What is the main disadvantage of a doubly-linked list over a basic linked list? 
+8.1  What is a stack? 
+8.2  What are the two main functions defined by a stack? 
+8.3  How can you implement a stack with an array? 
+8.4  How can you implement a stack with a list? 
+8.5  Which implementation ( array-based vs. list-based ) is preferred, and why? 
+8.6  How are infix expressions evaluated by computers? 
+8.7  What operations would you need to perform to find a given element on a stack? 
+9.1  What is a queue? 
+9.2  What are the two main functions defined by a queue? 
+9.3  How can you implement a queue with an array? 
+9.4  How can you implement a queue with a list? 
+9.5  Which implementation ( array-based vs. list-based ) is preferred for a queue, and why? 
+9.6  What is the stack operation corresponding to the enqueue operation in queues? 
+9.7  What data structure is more appropriate for scheduling printing jobs at a printer, a stack or a queue? 
+10.1  What is a tree? 
+10.2  What is the height of a tree? 
+10.3  What is a leaf? 
+10.4  What is a binary tree? 
+10.5  What is a binary search tree? 
+10.6  What is the inorder traversal of a binary tree? 
+10.7  How many comparisons does it take to find an element in a binary search tree? 
+11.1  What are the elements typically included in a class definition? 
+11.2  What are the access-specifiers that can be used in a C plus plus class definition? 
+11.3  How are objects initialized when they are created? 
+11.4  What is a function signature? 
+11.5  What is a recursive function? 
+11.6  What is the alternative way to solve a problem that could be solved through recursive functions? 
+11.7  What is the difference between an array that is declared as static and one that is not? 
+11.8  What is the main difference between a string of characters that is read into a variable of type string versus a variable of type char []? 
+11.9  Briefly describe the divide-and-conquer paradigm. 
+11.10  Briefly describe in one sentence how does merge sort work? 
+12.1  What is a pointer? 
+12.2  What is the experimental approach for measuring the running time of an algorithm? 
+12.3  Order the following functions by their running time: n to the power of 2; log ( log n ) ; 2 to the power of ( log n ) ; n!; n to the power of 3. 
+12.4  Briefly, how does selection sort work? 
+12.5  What is the advantage of linked lists over arrays? 
+12.6  What is a queue? 
+12.7  What are the main operations associated with a stack? 
+12.8  What is the Euler tour traversal of a tree? 
+12.9  How do you delete a node from a binary search tree? 
+12.10  How many steps does it take to search a node in a binary search tree? 
+MS_39  Why is it important to use a standard unit when making a measurement?
+MX_24  How does one know when a solid and a liquid form a solution?
+EM_21a  A person found one brown mineral and one black mineral. How can she test them for hardness using only the 2 minerals (no tools)?
+PS_44  A harp has strings of different lengths. Describe how the sound of a short string being plucked (pulled and let go quickly) is different from the sound of a long string being plucked.
+II_38  Describe what one would see if a mirror were placed along a line of symmetry on a flat object.
+MX_53  A person's friend gave him a cup filled with a water solution. That person did not know what solid material was used to make it. He evaporated the solution and found crystals in the dish after all of the water was gone. How will the crystals help him decide what solid material was used to make the solution?
+FN_20b  A person wants to compare the fat in walnuts and peanuts. Using only the results from her experiment, how will she know which one, walnuts or peanuts, has more fat? The experiment has the following procedure: Measure out equal masses of walnuts and peanuts (for example, one gram). Smash the samples uniformly in the same size area on brown paper. Wait (the same time for each).
+MX_16a  A person made a saturated solution by adding a solid to 100 milliliters water. Another person made a saturated solution by adding the same solid to 250 milliliters water. Do the 2 saturated solutions have the same concentration? Explain your answer.
+VB_29  When conducting a controlled experiment, why does one use a standard?
+ST_58  What is your "rule" for deciding if the part of a plant you are observing is a fruit?
+ST_52a  When a seed germinates, why does the root grow first?
+LP_15c  What is the relationship between the amount of effort required to lift the load and its distance from the fulcrum?
+MS_43b  2 groups used marbles to weigh the same apple. First person's group found the apple weighed 35 marbles and second person's group found the same apple weighed 60 marbles. Both groups used the correct procedure. What should the groups do to make their results more useful?
+FN_19b  A person has samples of 5 different foods. Using only the results of her experiment, how will she know which food contains the most sugar?
+PS_4ap  A person tied one end of a string around a doorknob and held the other end in her hand. When she plucked the string (pulled and let go quickly) she heard a sound. How would the pitch change if she pulled the string tighter?
+ST_59  A person has a male lizard that has lived for several years in the habitat she provided. She knows that some lizards are territorial. Besides additional food and water, what should she be sure to include in the habitat before she adds another male lizard?
+SE_4a  What is a heat sink?
+EM_13  What is the difference between a rock and a mineral?
+EM_33b  You used 3 scratch tools in class to test minerals for hardness: your fingernail, a penny, and a paperclip. If a mineral can be scratched by a penny, you can be sure that a (paperclip) will also scratch it. Explain how you know that tool would scratch the mineral.
+LF_13b  What happens to earth materials during erosion?
+PS_2b  What happens to the volume of the sound if you pluck a rubber band harder?
+ME_36  When you build a series circuit using 2 bulbs and one D-cell, the bulbs are very dim. When you build a parallel circuit with 2 bulbs and one D-cell, the bulbs are bright. Why are the bulbs dim in series and bright in parallel?
+MS_50b  Jen was talking on the phone with her Uncle Bill who lives in Canada. When she asked him how the weather was, he said it was nice and warm, about 28 degrees. Why is it important to have standard units of measurement?
+SE_44  One way of modifying your solar house was to include a heat sink such as a container of water or masses of rock. What is the advantage of including a heat sink in a house?
+SE_27b  If a student was holding a thermometer by the bulb (the round part at the bottom of the thermometer) when reading the temperature, would the temperature read the same? Why or why not?
+HB_35  Describe how the muscles in the front and back of the leg work together to make the dancer's foot point.
+WA_12a  Oil, water, and corn syrup are layered in a tall, thin container. All are at the same temperature. What does the layering tell one about the density of the oil compared to water?
+HB_6a  What is the main job of muscles in the body?
+WA_12b  Oil, water, and corn syrup are layered in a tall, thin container. All are at the same temperature. What does the layering tell one about the density of the corn syrup compared to water?
+HB_46  What is it about the human skeleton that allows it to bend?
+WA_31  A person weighed a small, wet sponge. It weighed 38 grams. She left the sponge on the balance. The next day, another person found the sponge on the balance. It weighed 22 grams. Both persons weighed the sponge accurately. Why were the masses different?
+WA_17b  Why does the water level in the straw go down when the bottle-and-straw thermometer is cooled, but not frozen?
+WA_18  A person wrote in her science notebook, "Evaporation only happens when water is heated to high temperatures." Explain why one agree or disagree.
+HB_60  A person is a fast runner but he is slow at responding to the starting gun. How could he improve his start time?
+WA_24b  A person sprayed water on her mother's car. The water drops looked just like those she had seen on other surfaces that do not absorb water. What property of water causes the drop to be shaped that way?
+WA_22  Which of these processes are involved in causing rain? A. evaporation B. condensation C. both evaporation and condensation. Explain your answer.
+HB_34  Why are leg bones so large compared to other bones in the human body?
+WA_20a  A person covered his notebook with waxed paper. Then he placed a small drop of water in the middle of the notebook as shown in the picture. Even though the drop was on a slope, the drop stayed where he placed it. Describe 2 ways the person can make the water move down the notebook without pushing the drop or blowing on it.
+WA_16b  Why does the level of the water in the straw go up when the bottle-and-straw thermometer is heated?
+WA_21  A person's mother left a plastic bottle full of water in the trunk of their car. The temperature dropped below 0 degrees Celsius that night. When his mother opened the trunk the next afternoon, she discovered the water bottle had cracked. Explain why the water bottle cracked.
+EV_11  What is the relationship between an organism's range of tolerance and its optimum condition?
+VOLTAGE_DIFF_DISCUSS_2_Q  What does a voltage reading of 1.5 tell you about the connection between a bulb terminal and a battery terminal?
+DAMAGED_BULB_EXPLAIN_2_Q  Why does a damaged bulb impact a circuit?
+HYBRID_BURNED_OUT_WHY_Q3  Under what circumstances will a damaged/ burned out bulb affect another bulb?
+VOLTAGE_DIFF_DISCUSS_1_Q  What does a voltage reading of 0 tell you about the connection between a bulb terminal and a battery terminal?
+BURNED_BULB_LOCATE_EXPLAIN_Q  Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.
+SHORT_CIRCUIT_X_Q  What do you think the red X means?
+CONDITIONS_FOR_BULB_TO_LIGHT  What are the conditions that are required to make a bulb light up?
+VOLTAGE_AND_GAP_DISCUSS_Q  As you move the multimeter leads from one bulb terminal to the next, what does it mean when the voltage reading jumps from 0 to 1.5?
+VOLTAGE_DEFINE_Q  What is voltage?
+SWITCH_TABLE_EXPLAIN_Q3  Under what circumstances will a switch affect a bulb?
+PARALLEL_SWITCH_EXPLAIN_Q3  What role does the path play in determining whether or not a switch affects a bulb?
+VOLTAGE_ELECTRICAL_STATE_DISCUSS_Q  What is the relationship between the voltage reading between two terminals and their electrical states?
+DESCRIBE_GAP_LOCATE_PROCEDURE_Q  Finally, consider finding a burned out light bulb in a long string of lights. One approach would be to place one lead of the multimeter on a battery terminal and then move the other lead systematically, one light bulb terminal at a time. How would you know when you have found the burned out bulb?
+DAMAGED_BULB_SWITCH_Q  How does a damaged bulb compare to an open switch?
