@@ -1,0 +1,410 @@
+MX.24.388.1  When one can see through the solution. When the solid gets dissolved into the liquid.
+MX.24.389.1  When one mixes a solid and a liquid the solution is clear.
+MX.24.390.1  Because the mixture is clear.
+MX.24.393.1  The solution is clear and can be separated with evaporation.
+MX.24.394.1  one can see through the mixture , and one material has dissolved.
+MX.24.433.1  A solid and a liquid form a solution when they create one type of something like chocolate milk.
+EM.21a.139.1  Scratch one mineral against the other.
+EM.21a.278.1  Rubbing the minerals together.
+EM.21a.284.1  Use the person's fingernail.
+EM.21a.435.1  A person could rub the minerals together.
+EM.21a.459.1  Scratch the minerals together.
+II.38.101.1  One sees people upside down and kite, cart, cow, buoyant.
+II.38.113.1  If a mirror were placed along a line of symmetry on a flat object one would see a heart.
+II.38.140.1  One will see the line of symmetry.
+II.38.144.1  One would see the same part of the mirror.
+II.38.206.1  One would see the other side but it would be in the mirror.
+II.38.224.1  One would see the whole shape.
+MX.53.106.1  A person could see what solid was used and he will find out what it is.
+MX.53.157.1  One can tell by the way the crystals are shaped.
+MX.53.181.1  A person can probably look in a book or something to find out. All crystals are different.
+MX.53.248.1  The crystals help a person by making solid materials.
+MX.53.366.1  If one puts citric acid the crystals will be like a influx.
+MX.53.384.1  I think the crystals will help be by the shape and what they have on it.
+ST.58.397.1  I know the part of the plant is a fruit because it would have seeds in it.
+ST.58.398.1  To be a fruit the part of the plant must have at least one seed in it.
+ST.58.456.1  I will look at the seed.
+ST.58.461.1  The part of the plant has a seed.
+ST.58.464.1  The part of the plant has to have an embryo, seed count, and cotyledon.
+ST.58.470.1  If the part of the plant has seeds.
+VB.29.384.1  So that one can see the results of an experiment before a variable is changed so one can compare.
+VB.29.388.1  One uses a standard so one will not make a mistake and so one can compare the results of an experiment to differences.
+VB.29.394.1  One starts with a standard so one can compare his standard data to his own data when he changes a variable.
+VB.29.397.1  So one can get the closest answer to the question.
+VB.29.399.1  So one can record and change variables to get a difference.
+VB.29.404.1  So that control one's experiment without changing more than one variable.
+ST.52a.382.1  Because the root sucks up the water as food for the plant and stem.
+ST.52a.386.1  Because the plants need roots to produce the leaves.
+ST.52a.394.1  The root grows first to get food and nutrients.
+ST.52a.396.1  The root grows first because the seed needs water to grow.
+ST.52a.426.1  So the seed does not die.
+ST.52a.429.1  Because the root needs to stay. It will not grow at all.
+LP.15c.107.1  The seed and root both help the scale by weighing the load.
+LP.15c.111.1  The farther away the effort is the easier it is to lift the load.
+LP.15c.188.1  The farther away from the fulcrum the less effort is needed and the closer to the fulcrum the more effort.
+LP.15c.208.1  The closer the effort is to the fulcrum, the harder it is to lift the load.
+MS.43b.103.1  The groups could use grams to weigh them.
+MS.43b.118.1  The groups should use the same marbles.
+MS.43b.147.1  The groups should use little marbles.
+MS.43b.153.1  35 grams to a glass case, 60 grams to a big book.
+MS.43b.171.1  The groups could redo the weighing process to see if they weighed the right mass.
+MS.43b.276.1  The groups should use a standard unit.
+ST.59.393.1  A person needs to add another house or shelter and maybe a female.
+ST.59.396.1  A person should include another home.
+ST.59.418.1  Put a glass in the center of the tank.
+ST.59.420.1  Get a person's own shelter for that lizard.
+ST.59.422.1  A lizard needs food, home, space, air, water.
+PS.4ap.105.1  The pitch will change by the way a person plucks it.
+PS.4ap.110.1  The pitch would be low.
+PS.4ap.118.1  The pitch will get high.
+PS.4ap.141.1  Higher pitch is observed if a person pulled the string tighter.
+PS.4ap.154.1  It would make a higher pitch if a person pulled the string tighter.
+PS.4ap.172.1  The pitch would be lower because the string has less room to vibrate.
+EM.21a.311.1  A rock scratches.
+MX.24.418.1  Because you can see through it , and the mixture will dissolve into it.
+MX.24.468.1  You can not see the solid no more because it is going and you can not see the solution.
+MX.24.527.1  You know when the solid can not be seen.
+MX.24.566.1  When the solid dissolves into the liquid.
+EM.21a.403.1  She can rub them against each other.
+EM.21a.557.1  Rubbing them together.
+EM.21a.593.1  Rub one of the minerals against the other one and see if it has a mark or a scratch.
+EM.21a.637.1  Rub them together and see if one scratches the other !
+II.38.103.1  Is flat but when you write your letters backwards.
+II.38.151.1  You would see the whole shape.
+II.38.473.1  Half of the flat object.
+II.38.485.1  What the mirror is reflecting on the flat object.
+MX.53.425.1  Yes , because he could find out what type of crystals they are.
+MX.53.528.1  Weight them all.
+MX.53.575.1  Each crystal has its own properties so if he recognized if he would know what solute it was.
+ST.58.417.1  To see if it have seed.
+ST.58.533.1  Because it has seeds.
+ST.58.595.1  If it has seed inside it is a fruit.
+ST.58.637.1  It is plant.
+VB.29.429.1  In a controlled experiment.
+VB.29.432.1  You need to have a standard so you can tell the difference of what the experiment was and so you can tell how far it went.
+VB.29.462.1  You use a standard because you know it will be controlled if you do something random it might not work and that is not a controlled experiment.
+VB.29.511.1  So when you start with the standard it will help you understand more of the experiment.
+ST.52a.460.1  Roots sucks in water and makes a seed grow.
+ST.52a.473.1  Because it is getting water so the young plant or embryo can have energy to grow.
+ST.52a.498.1  So it can feed the plant.
+ST.52a.561.1  The root grew because it needs to help the plant stand up.
+LP.15c.145.1  They both start off with 0. And they both have effort in it.
+LP.15c.171.1  If the effort is farther from the fulcrum , it takes less effort to lift it.
+LP.15c.425.1  The farther the effort is applied from the fulcrum the effort decreases.
+LP.15c.630.1  If the effort is closer to the fulcrum then it is easier but if the effort is farther from the fulcrum then it is harder.
+MS.43b.143.1  They should zero their balances.
+MS.43b.174.1  Get the same marbles.
+MS.43b.417.1  They should zero it out before they put the apple in.
+MS.43b.532.1  Use grams.
+PS.4ap.160.1  If she did the pitch would be louder.
+PS.4ap.212.1  It would of got higher.
+PS.4ap.384.1  The pitch will be lower.
+PS.4ap.629.1  The pitch would be higher if she pulled it really tight.
+ST.59.384.1  She should make sure they each have their own space.
+ST.59.426.1  Shelter , space , food.
+ST.59.524.1  Add another shelter.
+ST.59.527.1  She needs another shelter.
+LF.13b.384.1  Earth material gets eroded and carried away.
+LF.13b.405.1  Earth materials form into other solids water , lava , wind.
+LF.13b.407.1  Earth materials just move around.
+LF.13b.408.1  Earth materials all settle to the bottom.
+LF.13b.417.1  During erosion earth materials are worn away by water wind or ice.
+LF.13b.468.1  The earth materials wears away.
+LF.13b.501.1  Earth material forms a canyon.
+LF.13b.508.1  All of the materials get washed away and they make a way for the water.
+LF.13b.516.1  The delta starts to get bigger.
+LF.13b.737.1  Earth materials get taken away from river banks , beaches , and island.
+LF.13b.752.1  During erosion earth materials break away and flow away.
+LF.13b.753.1  Earth materials get smashed and grinded into new shapes , sizes or even little pieces one can barely see.
+LF.13b.836.1  Earth materials get worn down.
+LF.13b.848.1  The materials rise and disappear.
+PS.2b.501.1  The volume of sound goes higher and the vibrations go higher.
+PS.2b.528.1  The volume of the rubber band get louder.
+PS.2b.531.1  The volume of sound turns louder.
+PS.2b.532.1  The rubber band will vibrate more so the sound increases.
+PS.2b.537.1  Plucking the rubber band harder makes a louder sound.
+PS.2b.561.1  The volume will be higher.
+PS.2b.562.1  Plucking the rubber band will sound louder.
+PS.2b.571.1  The rubber band starts to vibrate.
+PS.2b.595.1  The volume turns up.
+PS.2b.599.1  Plucking a rubber band harder sounds kind of loud.
+PS.2b.600.1  Plucking a rubber band harder will make a lower noise.
+PS.2b.605.1  The volume will go lower when one plucks it.
+PS.2b.626.1  Plucking a rubber band harder makes a louder noise.
+PS.2b.629.1  A rubber band vibrates more and makes louder noise.
+PS.2b.643.1  Plucking a rubber band harder stops the sound.
+PS.2b.644.1  The vibration gets harder.
+MS.50b.107.1  Like people understand what one is saying. Like say one wants 2 liters of gas.
+MS.50b.136.1  A standard unit is important because one can get the same unit and the same measurement.
+MX.53.473.1  By comparing them to other solutions.
+MS.50b.277.1  So one can have the same measurement as like a person in China that how one learned that.
+MS.50b.293.1  So one knows how to measure.
+MS.50b.311.1  To know how to best way to do the work.
+MS.50b.323.1  Because one will not get the right answer.
+MS.50b.423.1  In case if someone is sick.
+MS.50b.433.1  So one can know what the answer is.
+MS.50b.454.1  So people would understand each other.
+MS.50b.569.1  one got have a standard measurement for one could know what is the real answer.
+MS.50b.592.1  So that if one just measure anything else one will not get the right answer.
+SE.44.119.1  The house would be warmer.
+SE.44.171.1  A heat sink can absorb an enormous amount of heat and take a long time to cool down.
+SE.44.318.1  The heat sink absorbs heat slowly and releases it slowly , so the hot air would stay inside the house longer.
+SE.44.335.1  A thermometer then we check it every 5 minutes and it always changes the temperature and the time.
+SE.44.339.1  It depends the color of oner house if the house is black the heat sink in a house will be hot , if the house is white oner heat sink it would be cooler.
+SE.44.382.1  That the house will be cooler.
+SE.44.503.1  As the house heats up so does the heat sink then at night fall the heat sink transfers heat into the air keeping it warmer than the others.
+SE.44.527.1  The water will be burning or boiling.
+SE.44.604.1  The advantage of including a heat sink inside the house will keep the house cool because heat sinks do not absorb a lot of heat.
+MS.50b.461.1  Because it is important to use standard to measurement .
+PS.2b.567.1  Do nothing .
+HB.35.492.1  The muscle work by contracting and relaxing to make the toe point. Tibia by contracting and gastrocnemius is relaxing.
+HB.35.525.1  The tendons pull each other and make the dancer's foot point have great balance.
+HB.35.533.1  The 2 muscle work together by one relaxes and the other tightens.
+HB.35.537.1  The muscles in the front and back of the leg work together so the dancer can balance and point her foot.
+HB.35.573.1  The backs of the leg has to stretch and the front of the leg bends.
+HB.35.575.1  The gastrocnemius contracts at the back of the leg and the tibia relaxes for the dancer 's foot to point.
+HB.35.577.1  First the dancer needs to have muscles to help bend her foot. Second the dancer needs strong muscle to help her keep her foot like that, but she needs both of her muscle to keep her on balance.
+WA.12a.300.1  The oil is more dense.
+WA.12a.349.1  The layering tells one that oil expands.
+WA.12a.354.1  The oil is less denser than the water. The water is dense than the oil.
+WA.12a.359.1  That the oil is less dense than the syrup.
+WA.12a.362.1  The water is denser than the oil.
+WA.12a.416.1  The oil is less dense than water.
+WA.12a.430.1  Oil has less density than water.
+HB.6a.145.1  The muscles help a person stand up and his bones to move.
+HB.6a.177.1  The muscles provide movement.
+HB.6a.181.1  The muscles help your body move.
+HB.6a.182.1  The muscles help move your bones.
+HB.6a.207.1  The muscles support the body.
+WA.12b.171.1  That the oil has lines and the water does not.
+WA.12b.188.1  It tells me that corn syrup is denser than water. Because it is at the top.
+WA.12b.191.1  The layering tells me that corn syrup is dense.
+WA.12b.197.1  That water and corn syrup are denser than oil.
+WA.12b.212.1  The corn syrup is denser because it contracts, sinks.
+WA.12b.215.1  The water is less dense than syrup.
+WA.12b.219.1  The corn syrup is less density than water.
+HB.46.424.1  The hinge allows the knees and the elbow bend.
+HB.46.428.1  Joints, because bones can not bend but joints bend really easily to allow the body to move.
+HB.46.455.1  Joints help the human skeleton to bend.
+HB.46.459.1  A person's cartilage can help the human skeleton bend.
+HB.46.466.1  The hip in the skeleton makes the human skeleton bend.
+HB.46.489.1  The human skeleton could bend because it has joints.
+HB.46.491.1  Joints in the spine, legs, arms, and head allow the human skeleton to bend.
+WA.31.465.1  The person weighed the sponge when it was wet. Then the water evaporated and Jose weighed the sponge.
+WA.31.469.1  Some of the water evaporated from the cup.
+WA.31.487.1  Because overnight the water in the sponge evaporated so there was no water and it weighed less.
+WA.31.527.1  Because the water in the sponge evaporated overnight and that means it would not be as heavy.
+WA.31.535.1  The masses were different because the sponge soaks up the water in it.
+WA.31.536.1  Because water does weigh something. If the sponge is wet one day the next it will be dryer, and weigh less.
+WA.31.556.1  Because the water evaporated, and the sponge weighed its normal weight without water.
+WA.17b.299.1  Because when water is cold it goes to the bottom.
+WA.17b.356.1  Because when the cold or hot water goes down.
+WA.17b.368.1  Because cold water is denser than hot and it contracts.
+WA.17b.424.1  When water gets colder it contracts.
+WA.17b.425.1  Because cold water is less dense.
+WA.17b.431.1  Because the cold water is more dense so it goes down.
+WA.17b.458.1  The cold water makes the water contract.
+HB.60.569.1  By instead of using a gun the person could use a whistle.
+HB.60.571.1  The person can practice before his running tournament.
+HB.60.575.1  By practicing and concentrating so that a person will have a better response time.
+HB.60.597.1  The person needs to practice hearing the gun.
+HB.60.598.1  Practice the person's start time.
+HB.60.613.1  The person could practice responding at noises to improve his start time.
+HB.60.614.1  The person can improve his start by practicing.
+WA.24b.288.1  The surface of the car does not absorb water and it beads up and form a little ball.
+WA.24b.301.1  The surface of the car can not absorb in the water will make a bubble like shape or surface tension will stick all the water together.
+WA.24b.351.1  Surface area causes the drop to form a dome or bead shape.
+WA.24b.365.1  Plain water like hose water for example will make a dome shape and the surface tension from the car will help make the dome.
+WA.24b.384.1  Surface tension causes the drop to form a dome or bead shape.
+WA.24b.385.1  The property of surface tension causes the drop to form a dome or bead shape.
+HB.34.537.1  The leg bones have to be big so they can support a person and help him walk.
+HB.34.561.1  To hold all a person's body weight.
+HB.34.568.1  Because the leg bones need to keep a person upright.
+HB.34.602.1  They need to hold the rest of the skeleton.
+HB.34.603.1  The leg bones support most of a person's body.
+HB.34.613.1  The leg bones are so long because they support a person's upper body.
+HB.34.637.1  The leg bones are so large because it helps one run fast also it helps one move, walk.
+WA.16b.510.1  Because when water molecules are warm they like to expand.
+WA.16b.525.1  Because when one puts hot water into room temperature water it will rise up. Because the water in the bottle is cold and not in the bottle is not cold.
+WA.16b.530.1  Because the warm water is less dense so it expands.
+WA.16b.566.1  The hot water is more dense it is getting more dense.
+WA.16b.567.1  Because hot water expands.
+WA.16b.596.1  Because warm water is denser than cold water. When a substance is denser it squeezes up in a small space.
+EV.11.254.1  A range of tolerance is what is the lowest to the highest of something that an organism can live in, and a optimum condition is the best place for an organism to grow in.
+EV.11.279.1  An organism's range of tolerance and its optimum condition are conditions the organisms can live in.
+EV.11.320.1  An organism's range of tolerance and its optimum condition both have places where an organism can live and stay.
+EV.11.441.1  Organisms need water, food, and a habitat.
+EV.11.454.1  An organisms optimum condition is within its range of tolerance.
+SE.4a.109.1  Something that could hold energy.
+SE.4a.327.1  A material that goes slowly and energy goes slowly.
+SE.4a.407.1  Something the heat sinks into.
+SE.4a.521.1  A system that takes a long time to heat up and a long time to cool off.
+SE.4a.175.1  A heat sink heats up slowly and cools down slowly.
+MS.39.105.1  One might get more medicine than one needs.
+MS.39.110.1  People use a standard unit all around the world. And it is important.
+MS.39.113.1  If one does not use a standard unit one might not get the right answer one may not even get one that is close.
+MS.39.153.1  So one can find the actual answer to a question that one have.
+MS.39.174.1  Because if one do not one will get the wrong measurement.
+MS.39.276.1  People use standard units because if somebody makes bottles of water they put at the bottom how many liters it is.
+PS.44.104.1  The small string has the highest pitch than the long one.
+PS.44.105.1  The sound of a short string being plucked (pulled and let go quickly) is different from the sound of a long string being plucked because the little string makes a height sound.
+PS.44.111.1  The short string, will make a high sound and a long string will make a low sound. The short string and the long string are different because they are high and low.
+PS.44.114.1  If one plucks the string, it makes a volume.
+PS.44.118.1  A short string being plucked is different than the long string being plucked because the long string has the lowest pitch. And the shortest has the highest pitch.
+PS.44.138.1  A little string has a high pitch and a big string has a low pitch.
+FN.20b.101.1  Using only the results from her experiment, a person will know which one has more fat in it by the larger the grease spot the more fat.
+FN.20b.123.1  A person will know which one has the most fat is checking the size of the grease spots.
+FN.20b.148.1  Look at the grease that is on the brown paper and what has the most grease has the most fat.
+FN.20b.156.1  The bigger the grease spot the more fat.
+FN.20b.218.1  Whichever one is higher on the graph has more fat.
+FN.20b.265.1  One can tell which one has more fat by looking at the brown piece of paper and the biggest grease spot has more fat in it.
+MX.16a.140.1  No because one has more water.
+MX.16a.206.1  No, because the persons do not say how much spoons are in there and 250 milliliters is more concentrated.
+MX.16a.277.1  No because the concentration has to be equal.
+MX.16a.366.1  No the saturated solutions do not because they are not the same amount of water and it will not equal the same.
+FN.19b.152.1  If the food puffs up more that means that it has sugar in it.
+FN.19b.176.1  A person will know because the bag that was highest in the volume tube when pressing down has the most sugar.
+MS.39.115.1  Because you could not make measurement without a standard unit.
+MS.39.569.1  If you have a standard measurement you can get the correct answer and you do not have the wrong answer.
+MS.39.598.1  We use a standard unit so we do not get the measurement wrong.
+MS.39.600.1  Because it is a standard unit.
+PS.44.145.1  The short string has a higher pitch sound.
+PS.44.194.1  The lower pitch make 's the loudest noise.
+PS.44.225.1  The shorter the string the higher the pitch the Longer the string the lower the pitch.
+PS.44.255.1  The shorter string has a higher pitch than the longer string !
+FN.20b.171.1  By looking at the scale and seeing which one is lower.
+FN.20b.219.1  A grease spot will appear whatever grease spot is bigger that food has more fat.
+FN.20b.298.1  The oil or fat will have spread on the paper.
+FN.20b.615.1  And she can help you to measure the cup.
+MX.16a.436.1  No because Mariella 's is more concentrated because her 's has less water so it is taste more sweeter or saltier.
+MX.16a.492.1  Yes because they both have the same amount of water.
+MX.16a.497.1  Yes , because if the same amount of solute and make a saturated solution the concentration would be the same if the solutions had the same volume.
+MX.16a.636.1  No because one has 100 milliliters of water and the other has 250 milliliters of water.
+FN.19b.216.1  Susan will know which food contains the most sugar by comparing the amount of carbon dioxide each food sample has.
+FN.19b.424.1  The bag will be full of carbohydrate and it will be fat.
+FN.19b.514.1  She will know by measuring it also whichever has more bubbles.
+FN.19b.532.1  Whichever one has the highest volume.
+EM.13.397.1  The difference between a rock and minerals are that a mineral is made of rock.
+EM.13.401.1  A rock is made up of minerals but minerals can not be made up of minerals.
+EM.13.429.1  A rock is made up of minerals and a mineral is just one substance.
+EM.13.435.1  A rock does not bubble or fizz. If one puts it in vinegar a mineral does or does not bubble and fizz.
+EM.13.452.1  A rock can be broken up and one can find minerals , a mineral can be broken up but all one will find is more of that mineral.
+EM.13.488.1  A rock is made out of lots of stuff and a mineral is made out of things.
+EM.13.489.1  A rock is made out of lots of things. A mineral is only made out of one thing.
+EM.13.498.1  A mineral has one mineral in it and a rock has all this minerals in it.
+EM.13.501.1  A rock has one thing and a mineral has a lot of stuff in it.
+EM.13.522.1  Not all rocks are hard and some can be scratched. Some minerals are hard and some can be crushed.
+EM.13.533.1  A rock is hard a mineral is in a rock because a rock is made from minerals.
+EM.13.564.1  A rock is made with different materials and a mineral is made with elements.
+EM.13.598.1  The rocks have many size. The mineral have space , size and color.
+EM.13.602.1  A rock is made out of more than one mineral. And a mineral is made out of one thing.
+EM.13.605.1  A rock has more than one substances. A mineral only has one substance.
+EM.13.606.1  A rock has more than one thing and a mineral does not.
+EM.13.632.1  A mineral is made of only one substance but a rock is made of many minerals.
+EM.13.645.1  Rocks are made out of mineral and mineral is made out of crystals.
+EM.33b.432.1  I know because the paperclip is a harder tool so if a softer tool can scratch it so can the paperclip.
+EM.33b.436.1  A paperclip is harder because one scratched the penny with the paperclip. The penny got a scratch.
+EM.33b.452.1  A paperclip is harder than a penny.
+EM.33b.466.1  If the paperclip scratches it then the penny scratches it because they are almost the same hardness.
+EM.33b.467.1  Because the penny is the middle hardness and the paperclip is the hardest that is how one knows it should scratched.
+EM.33b.488.1  Because if mineral is kind of hard as a penny.
+EM.33b.492.1  If the hardest tool can scratch the mineral then the second hardest can.
+EM.33b.504.1  If a washer scratched the mineral and the paperclip is harder than the washer than it would scratch the mineral too.
+EM.33b.523.1  A paperclip is the hardest so if a penny can a paperclip can.
+EM.33b.561.1  A paperclip is also hard and it can make a mark.
+EM.33b.570.1  Because paperclip is bigger and harder.
+EM.33b.573.1  Because paperclip is harder and it can not scratch the mineral.
+EM.33b.593.1  Because a penny is a little bit harder than a fingernail and if a penny scratches a fingernail would scratch.
+ME.36.108.1  The bulbs are dim because they have to share a path. They are bright because they do not have to share a pathway.
+ME.36.123.1  Because with a parallel the bulbs have their own pathway.
+ME.36.146.1  In a series the bulbs do not have enough energy to flow through it. In a parallel the bulbs has a enough out energy to flow through.
+ME.36.173.1  The bulbs are dim on the series circuit because the series circuit does not have a circuit. The parallel is bright because the bulbs have a circuit.
+ME.36.181.1  The bulbs are very bright because they each have their own pathway.
+ME.36.185.1  In the series circuit there is a disconnection in the wiring. In a parallel circuit the energy flows straight to the bulb , goes through and keeps going in a circuit.
+ME.36.206.1  The light bulbs are dim because in a series circuit they share some of the same connections.
+ME.36.214.1  The bulbs are dim in a series because they are using each other 's energy , the lights are bright in a parallel because the bulbs are not sharing energy with each other.
+ME.36.215.1  One gets more power than the other.
+ME.36.226.1  The bulbs are dim in a series and bright in a parallel because parallel is 2 or more and a series is only one way. So parallel is stronger.
+ME.36.253.1  The bulbs are dim in series and bright in parallel because the 2 bulbs were new and the other bulbs were probably old.
+ME.36.277.1  The lights are dim in a series circuit because they share the same circuit , and bright in a parallel circuit because they do not share.
+ME.36.278.1  The bulbs are dim in a series circuit because one of the bulbs is taking all of the electricity. The bulbs are bright in the parallel circuit because they are sharing electricity.
+SE.27b.103.1  No , There are 2 different things.
+SE.27b.105.1  No , Because the bulb would be little warm. It would be hotter if the student would not be grabbing the bulb.
+SE.27b.120.1  No , the thermometer would not read the same temperature because the heat on oner hand heats the thermometer.
+SE.27b.133.1  No , No because the temperature will rise like 4 or 5 degrees.
+SE.27b.139.1  No , The temperature will change when one holds the thermometer by the bulb because oner hand and body is warm so the temperature will go high.
+SE.27b.184.1  Yes , I think yes because if one puts oner thumb there the heat from oner body makes onerself heat in oner own body.
+SE.27b.243.1  No , Because of that student 's body heat.
+SE.27b.265.1  Yes , Well the alcohol needs the sun or shade to change the bulb of the thermometer , but if something or someone is blocking it , the alcohol will not go neither up nor down.
+SE.27b.316.1  No , Because if a student had the thermometer by the bulb the thermometer would measure the temperature of his or her body not the object.
+SE.27b.323.1  No , Because the thermometer would read how cold or hot is the bulb and that is what it would read.
+SE.27b.333.1  Yes , Because if one put oner hand on the round part the air is not going to feel thermometer.
+SE.27b.416.1  No , if a person held a thermometer by the bulb then the thermometer would sense oner hands and the degrees would rise.
+SE.27b.514.1  No , the temperature would not be the same because the thermometer would be taking in the body temperature.
+SE.27b.538.1  No , the temperature would be warmer because the warmth and pressure of oner fingers would give warmth to the bulb.
+SE.27b.605.1  No , No because the temperature would be changed.
+WA.18.469.1  A person agrees because heat can help the time of evaporation.
+WA.22.207.1  One chooses both evaporation and condensation because when water evaporates it turns into water vapor when there is enough it forms rain clouds then condensation happens and forms rain.
+WA.22.212.1  Was evaporation makes a cloud full of water vapor then that cloud becomes rain.
+WA.22.221.1  Because but evaporation is air condensation is like cloud and rain.
+WA.22.223.1  Because evaporation causes the water to go up in the air, and condensation makes clouds which eventually form precipitation or rain.
+WA.22.227.1  Because water gets evaporated.
+WA.22.229.1  Evaporation and condensation both have something to do with rain because evaporation evaporates the water into the air and makes it water vapor. The water vapor condenses and makes clouds filled with water and then the cloud touches a cool surface and condensation makes the liquid water back into water and it rains.
+WA.21.461.1  Ice expands instead of contracts.
+WA.21.522.1  The bottle gets so cold and froze that it cracked the plastic bottle.
+WA.21.523.1  Because the water in the water bottle froze and it expanded and it did not have enough room, so it cracked.
+WA.21.534.1  The bottle cracked because water expands when the temperature hits the freezing point.
+MX.16a.389.1  Yes because the saturated solutions both have the same amount of solid.
+FN.19b.103.1  Putting the bag of yeast, warm whatever the food sample one are tasting.
+FN.19b.106.1  Whichever food has the most carbohydrates has more sugar. And that is how a person will know her results.
+FN.19b.139.1  Finally a person will have to get a volume tube put the bag in it and press down. Then one are done.
+FN.19b.145.1  A person will know which food contains the most sugar by how high the volume tube goes. Look at the one with the highest number or highest volume tube.
+WA.18.383.1  Water evaporation is also predicted by the volume mass.
+WA.18.385.1  A person disagrees because the surface area effects the evaporation. Also it just takes more time when the water is cold.
+WA.18.451.1  A person agrees because anything with water on it in the heat will evaporate.
+WA.18.455.1  A person disagrees because water can evaporate when it is breezy too.
+WA.18.456.1  A person disagrees because water can evaporate at any temperature.
+WA.18.465.1  A person disagrees. Water can evaporate at any temperature. Make the water make it evaporate faster.
+LP.15c.105.1  The seed and root both relate because one equals the other for a answer.
+LP.15c.112.1  The distance of the effort required to lift the load from the fulcrum is 15 centimeters.
+LF.13b.773.1  Erosion is the process of moving sediment from one place to another.
+LF.13b.918.1  What happens earth materials during erosion is the materials are carried away form water that tables 9 to another place.
+SE.44.123.1  The advantage is that when one is including a heat sink it takes up some space.
+SE.44.126.1  The advantage is the water and rocks would not probably warm up the house that much.
+SE.44.419.1  The advantage is that the heat sink keeps oner house warm.
+SE.44.427.1  The advantage of including a heat sink in our solar houses would be that it would keep the heat in one place and release it slower.
+SE.44.436.1  The advantage of having a heat sink in oner house is that the heat slowly rises.
+SE.44.494.1  The advantage of including a heat sink in a house would be that the house would probably stay warm.
+SE.44.563.1  The advantage is that a heat sink can absorb the heat and energy !
+HB.6a.249.1  The main job of muscles is to allow you to move and bend.
+HB.6a.251.1  The main job of muscles is to work together with the bones.
+WA.16b.526.1  Because the water in the thermometer is room temperature water and hot water is less dense than room temperature water causing it to float or rise.
+EV.11.428.1  The optimum condition is the best and range of tolerance is what it survive in, optimum condition equals thrive, range of tolerance equals survive.
+SE.4a.123.1  A heat sink is an object that can attract heat.
+SE.4a.126.1  Heat sink is anything that gets or contains heat.
+SE.4a.159.1  A heat sink is something that traps heat in. Like water it heats up and traps the heat to make boiling water.
+SE.4a.190.1  A heat sink is when the temperature in the thermometer goes down or decreases.
+SE.4a.191.1  A heat sink is something that absorbs heat and loses heat slow like water.
+SE.4a.316.1  A heat sink is an earth material that absorbs energy slowly and releases it slowly.
+SE.4a.382.1  A heat sink is a material that decreases heat such as water.
+SE.4a.409.1  A heat sink is something that absorbs sunlight quickly. Water is the best heat sink.
+SE.4a.429.1  A heat sink is when the temperature drops.
+SE.4a.441.1  A heat sink is when a temperature goes up just a little or down a little.
+SE.4a.493.1  A heat sink is a substance that can take in and give off heat.
+SE.4a.564.1  A heat sink is a material that slows down another.
+SE.4a.598.1  A heat sink is something takes long to cool down and get hot.
+SE.4a.602.1  A heat sink is something that takes water to absorb.
+SE.4a.605.1  A heat sink is not a thing like water.
+SE.4a.620.1  A heat sink is water because it absorbs slowly and it lets go slowly.
+MX.16a.386.1  No, because there is less room for the solute to spread out in the person's solution. The material at the bottom is not part of the solution.
+EM.13.508.1  Minerals are in rocks. The rocks are minerals put together.
+EM.13.537.1  Mineral is something in a rock a rock is a hard cement kind of.
+EM.33b.427.1  Because the paperclip is an easier item to scratch a rock or mineral than a penny.
+EM.33b.499.1  A paperclip is harder than a penny and the paperclip is like a penny.
+EM.33b.609.1  Because the paperclip is the hardest tool and the penny is almost the hardest so the paperclip can scratch the mineral.
+ME.36.313.1  In the series circuit the bulbs are dim because there is only one bulb. In the parallel circuit there are 2 bulbs so the bulbs are bright.
+ME.36.328.1  The bulbs in a series circuit are dim because there is only one pathway for electricity and in a parallel circuit there is more than one pathway.
+WA.22.182.1  Both evaporation and condensation are processes that involve causing rain because first, when there is a cup of water, the sun would evaporate the water and turn it into water vapor, then the water vapor would touch a cool surface and start condensation. Then the condensation would go to the clouds and cause rain.
+WA.21.497.1  Because 0 degrees Celsius is the freezing point of water. When water freezes it expands. The water bottle cracked because the ice needed more room than the water.
+WA.21.510.1  0 degrees Celsius is 32 degrees Fahrenheit and when the temperature is 32 degrees Fahrenheit the water froze and when water freezes the ice expands.
+WA.21.521.1  Because if one leaves a cup or bottle of water outside when the temperature is 0 degrees Celsius it will crack.
