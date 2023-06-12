@@ -1,8 +1,0 @@
-12.1.15  A pointer is a data type with a memory address and a value. 
-6.7.7  A function pointer is a pointer to a function.  
-8.1.25  A stack is a finite ordered list with zero or more elements. 
-10.1.24  A tree is a type of data structure in which each element is attached to one or more elements directly beneath it. 
-10.3.9  A leaf is the node with degree 0.  
-11.4.10  A function signature is return type, function name, and the parameter types.  
-11.4.6  A function signature is the declaration of the function.  
-12.1.13  A pointer is an alias to an object in memory. 
