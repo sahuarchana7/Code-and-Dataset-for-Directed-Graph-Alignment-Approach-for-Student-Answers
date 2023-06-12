@@ -1,0 +1,5 @@
+f = open('./lee_final.txt', 'r')
+f1 = f.readlines()
+for line in f1:
+    line = line.split(" ")
+    print line
