@@ -1,1 +1,0 @@
-Please run generate_triples.sh. All the python codes as mentioned in this .sh file will run in sequence. 
