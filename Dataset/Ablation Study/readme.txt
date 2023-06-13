@@ -1,0 +1,1 @@
+This folder contains two groups of data : Group 1 having student answers in which the directionality information in their respective answer graphs is of utmost importance for better understanding (Group-dir) and the other group is comprised of student answers where the directionality information is not vital (Group-nodir).
